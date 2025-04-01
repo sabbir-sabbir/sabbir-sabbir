@@ -6,7 +6,7 @@
 
 I'm a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. My expertise extends to modern front-end frameworks and libraries, including Bootstrap, Tailwind CSS, and Sass, allowing me to create responsive and visually appealing websites. I have a solid understanding of the Document Object Model (DOM) and Browser Object Model (BOM), enabling me to build interactive and dynamic user experiences. I'm constantly learning and staying up-to-date with the latest web development trends and best practices.
 
-## Skills:✨  / JAVASCRIPT / REACT JS / NEXT JS / HTML / CSS / BOOTSTRAP / TAILWIND CSS / UI LIBRARIES / FIRE-BASE / CLERK ..
+## Skills:✨  / JAVASCRIPT / TYPESCRIPT / REACT JS / NEXT JS / HTML / CSS / BOOTSTRAP / TAILWIND CSS / UI LIBRARIES / FIRE-BASE / CLERK ..
 
 - 🔭 I’m currently working on WEB DEVELOPMENT💻🔧 
 - 🌱 I’m currently learning NEXT JS  
